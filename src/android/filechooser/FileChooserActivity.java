@@ -16,6 +16,8 @@
 
 package com.ipaulpro.afilechooser;
 
+import opokuwi.skalalabs.com.R;
+
 import android.app.ActionBar;
 import android.content.BroadcastReceiver;
 import android.content.Context;
