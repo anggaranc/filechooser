@@ -1,6 +1,8 @@
 
 package com.ianhanniballake.localstorage;
 
+import opokuwi.skalalabs.com.R;
+
 import android.content.res.AssetFileDescriptor;
 import android.database.Cursor;
 import android.database.MatrixCursor;
