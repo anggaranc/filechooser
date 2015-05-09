@@ -16,6 +16,8 @@
 
 package com.ipaulpro.afilechooser;
 
+import opokuwi.skalalabs.com.R;
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.os.Environment;
